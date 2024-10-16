@@ -1,0 +1,37 @@
+body {
+    background-color: #D09683;
+}
+
+#heading {
+    display: flex;
+    font-family: 'Times New Roman', Times, serif;
+    color: #330000;
+    justify-content: center;
+    font-size: 50px;
+}
+
+.picture {
+    display: flex;
+    justify-content: center;
+}
+
+.picture #headshot {
+    border-radius: 20%;
+}
+
+.picture img {
+    border-top: 10px solid #330000;
+    border-right: 10px solid #330000;
+    border-bottom: 10px solid #330000;
+    border-left: 10px solid #330000;
+}
+
+.Intro{
+    display: flex;
+    justify-content: center;
+    width: 1000px;
+    
+}
+
+
+
